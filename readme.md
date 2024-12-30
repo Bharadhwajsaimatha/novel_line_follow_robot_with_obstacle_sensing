@@ -4,7 +4,8 @@ This project is a novel implementation of a simple low cost line following robot
 
 ## Demo
 
-[Demo](assets/demo.gif)
+![demo](assets/demo.gif)
+
 
 A full video demonstration is available [demo](demo/Topic4_GroupB_LineFollowRobot_demo_video_1.mp4).
 
